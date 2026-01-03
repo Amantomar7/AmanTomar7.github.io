@@ -1,7 +1,7 @@
 # Site settings
-title: Aman Tomar blog
+title: Aman Tomar's blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "blog about programming and technology"
 baseurl: ""
 url: "http://AmanTomar7.github.io"
 github_username:  AmanTomar7
