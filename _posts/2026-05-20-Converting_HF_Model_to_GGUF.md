@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Converting Any hugging face Model to GGuf Format"
 excerpt: "In this post we will learn how we can convert any hugging face model to the gguf format, that we can use to get the optimization speed of the ggml lib."
-date:   2026-01-01 22:00:00
+date:   2026-05-20 22:00:00
 ---
 
 
